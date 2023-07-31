@@ -1,0 +1,194 @@
+
+.rqt{
+    height: 675px;
+}
+.rqtbar{
+    display: flex;
+    transform: translate(1px,100px);
+    gap: .4rem;
+}
+.bardash{
+    margin-top: -15px;
+    font-size: 40px;
+    margin-left: 160px;
+}
+.rqtdash{
+    display: flex;
+    gap: .5rem;
+    transform: translate(0,50px);
+    margin-left: 1090px;
+}
+.dashbox{
+    /* background-color: bisque; */
+    transform: translate(164px,100px);
+    width: 1165px;
+    /* height: 800px; */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.hr2{
+    width: 1162px;
+    transform: translate(165px,130px);
+}
+.leftinputs{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 1rem;
+    margin-left: 50px;
+    transform: translate(0px,20px);
+   
+}
+.leftinputs input{
+    width: 500px;
+    margin-top: -10px;
+    margin-left: 1px;
+    height: 20px;
+}
+.leftinputs select{
+    width: 515px;
+    margin-left: 1px;
+    height: 35px;
+    margin-top: -7px;
+}
+
+.leftinputs p{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.in{
+    margin-top: -10px;
+    margin-left: 1px;
+    width: 450px;
+    height: 25px;
+}
+.yesorno{
+    display: flex;
+    margin-left: 30%;
+}
+.qs{
+    display: flex;
+    margin-top: 3%;
+}
+
+.previous{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 10px;
+}
+.con1{
+    margin-top: 50px;
+    margin-left: 5px;
+}
+.rth{
+    border-bottom: none;
+}
+.rtd{
+    text-align: center;
+}
+.col1{
+    display: grid;
+    margin-top: 2px;
+    row-gap: 1rem;
+}
+.selection{
+    display: grid;
+    row-gap: 1rem;
+}
+.que{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 5px;
+    margin-left: 100px;
+    width: 900px;
+}
+.ans{
+    display: flex;
+    margin-left: 80px;
+}
+.file{
+    margin-left: 130px;
+    border: 2px solid blue;
+    width: 970px;
+    height: 180px;
+}
+.innerfile{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.choosefile{
+    border: 1px solid black;
+    width: 300px;
+    
+}
+.inp{
+    display: flex;
+    margin-top: 10px;
+}
+.upload{
+    margin-left: 100px;
+    width: 90px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+.move{
+    color: rgb(196, 3, 3);
+    margin-left: 15px;
+    list-style: circle;
+}
+.uplist{
+    margin-top: 15px;
+}
+.div{
+    transform: translate(164px,100px);
+    width: 1165px;
+    margin-top: 5%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    row-gap: 1rem;   
+}
+.div input{
+    width: 500px;
+    margin-top: -10px;
+    margin-left: 1px;
+    height: 20px;
+}
+.hh{
+    /* display: flex; */
+    margin-top: 20px;
+    margin-left: 30px;
+
+}
+.procebtn{
+    background-color: rgb(13, 13, 75);
+    color: white;
+    padding: 7px;
+    margin-left: 85%;
+}
+
+.btnplus{
+    padding: 1%;
+    width: 10%;
+    margin-left: 10%;
+    background-color: gray;
+    color: white;
+    border: none;
+    margin-bottom: 50px;
+}
+.rn{
+    display: flex;
+    margin-top: 3%;
+}
+.dltlist{
+    display: flex;
+    list-style: none;
+    margin-bottom: 5%;
+
+}
+.btndlt{
+    margin-left: 2%;
+    border: none;
+}
+
+

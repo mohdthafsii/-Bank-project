@@ -1,0 +1,87 @@
+.header{
+    display: flex;
+    transform: translate(0,80px);
+   
+    
+}
+.bar{
+margin-left: 160px;
+font-size: 40px;
+}
+.dash{
+    margin-left: 5px;
+    margin-top: 15px;
+}
+.btn1{
+   width: 70px;
+   height: 25px;
+   background-color:  rgb(13, 13, 75);
+   color: white;
+   border: none;
+   margin-top: 110px;
+   margin-left: 918px;
+}
+.box{
+    
+    margin-left: 165px;
+    margin-top: 90px;
+    height: 450px;
+    width: 1150px; 
+     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+table{
+    border-collapse: collapse ;
+    border: solid rgba(137, 136, 136, 0.34);
+    width: 1100px;
+    margin-left: 25px;
+    margin-top: 10px;
+    
+}
+th{
+    border-bottom: 2px solid black;
+}
+td{
+    padding: 7px;
+}
+.searchbar{
+   
+    width: 250px;
+    margin-left: 895px;
+    margin-top: 25px;
+}
+input{
+    padding: 5px;
+    margin-left: 5px;
+}
+.tablebtn{
+    transform: translate(23px,15px);
+}
+hr{
+    width: 1100px;
+}
+.btn2{
+    background-color:  rgb(13, 13, 75);
+    color: white;
+    padding: 6px;
+    width: 100px;
+    border: none;
+    border-radius: .1rem;
+}
+.btn3{
+    background-color: transparent;
+    color:  rgb(13, 13, 75);
+    margin-left: 15px;
+    padding: 6px;
+    width: 100px;
+    border: none;
+}
+.btn2:active{
+    background-color: white;
+    color: black;
+}
+
+.btn3:active:focus{
+    background-color:  rgb(13, 13, 75);
+    color: white;
+    border: none;
+}
